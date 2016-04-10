@@ -1,4 +1,4 @@
-# 0200AH [[ [Re]generated on 2016-04-09 (18:07:22) ]]
+# 0200AH [[ [Re]generated on 2016-04-10 (17:13:59) ]]
 
-* `0110HasanBasri.FadailMakka (TAGS: ...,PPE)`
-* `0195MuarrijSadusi.HadhfMinNasabQuraysh (TAGS: ...,GEN,PPE)`
+* `0110HasanBasri.FadailMakka (TAGS: CENT0200,PPE,_AJZA,_BULDAN,_HADITH,_TABAQAT,_TARAJIM,_TARIKH)`
+* `0195MuarrijSadusi.HadhfMinNasabQuraysh (TAGS: CENT0200,GEN,PPE,_ANSAB,_BULDAN,_TARIKH)`
