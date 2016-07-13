@@ -22,3 +22,9 @@
 
 These are the major steps.  Please,  do not hesitate to contact the me if you have any questions, no matter how insignificant they may seem to you.
 
+For 0110HasanBasri.FadailMakka:
+The Shia version is missing text (it ends after page 26, whereas the other versions continue through page 40). I picked the JK version because this version had Qur'anic verses tagged whereas the Shamela version did not. It took me 1 hour to edit this text. 
+
+For 0195MuarrijSadusi.HadhfMinNasabQuraysh:
+I chose to work with the Shamela version because this version already had sections marked up, whereas the JK version did not. It took me 2 hours to edit this version. 
+
